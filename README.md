@@ -1,2 +1,2 @@
 # proto-converter
-Command-line utility to convert proto to JSON and Golang struct
+Command-line utilities to convert proto to JSON and Golang struct
